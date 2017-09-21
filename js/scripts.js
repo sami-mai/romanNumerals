@@ -15,6 +15,7 @@ $('#submit-button').click(function(e) {
     console.log(i);
 
   }
+  // display result
   $(".number").text(input);
   $(".roman").text(result);
 
