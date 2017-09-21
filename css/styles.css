@@ -1,0 +1,18 @@
+#result {
+  display: none;
+}
+
+body {
+  margin: 30px;
+  text-align: center;
+  background-color: #7B9AD8;
+}
+
+.form-group {
+  color: #D8C77B;
+}
+
+.submit-button {
+  background-color: #D8C77B;
+  color: #555962;
+}
